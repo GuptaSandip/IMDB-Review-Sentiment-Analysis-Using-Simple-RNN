@@ -34,7 +34,7 @@ Thumbs.db
 # Ignore model checkpoints or large datasets (if applicable)
 models/
 checkpoints/
-*.h5
+# *.h5
 *.pth
 *.pkl
 *.pb
